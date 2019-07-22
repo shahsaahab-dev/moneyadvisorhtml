@@ -97,6 +97,10 @@ $('.testimonials').owlCarousel({
         1024:{
             items:3,
             nav:false
+        },
+        1100:{
+            items:4,
+            nav:true
         }
     }
 });
