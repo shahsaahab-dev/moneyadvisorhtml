@@ -2,6 +2,29 @@
     .header-section.header-transparent {
     height: 8vh;
 }
+    
+    .form-wrapper {
+    margin-left: -39px;
+}
+
+.repayment-img p {
+    margin-right: 20px;
+}
+
+.help-you-box {
+    width: 275px;
+}
+    .debt-free-col h3 {
+    padding: 0px 40px;
+}
+
+.debt-free-col p {
+    padding: 0px;
+}
+
+body {
+    background-size: contain;
+}
 }
 @media only screen and (min-width:320px) and (max-width:992px){
     ul.navigation{
