@@ -1,0 +1,87 @@
+@media only screen and (min-width:320px) and (max-width:500px){
+    
+    body {
+    background-image: none!important;
+}
+    
+    h3.main-section-title {
+    font-size: 52px;
+    margin-top: 0px;
+}
+    button.btn.btn-primary.btn-main-section {
+    display: block;
+    margin-top: 30px;
+}
+    .example-img img {
+    margin-left: 0px;
+}
+    
+    .test-box {
+    width: 345px;
+    margin: 0 auto;
+}
+    
+    .debt-free-col h3 {
+    padding: 0px 45px;
+    margin-bottom: 15px;
+}
+    
+    .debt-free-col {
+    margin-bottom: 100px;
+}
+    
+    .footer {
+    height: 72vh;
+    background-size: cover;
+}
+    
+    .site-desc p {
+    position: absolute;
+    bottom: -52vh;
+}
+
+.site-desc {
+    margin-top: 85px;
+}
+
+    .footer-tablecell{
+        vertical-align: top;
+    }
+
+    ul.contact-info.links {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+    
+    .footer{
+        background-image: url(../images/footer-mobile.png)!important;
+    }
+    
+    .form-wrapper {
+    margin-left: 0px;
+    width: 95%;
+}
+    
+    .debt-free-section img.rocket {
+    display: none;
+}
+    
+    .debt-free-col p {
+    padding: 0px;
+}
+
+
+.logo {
+    width: 250px;
+}
+
+.logo img {
+    width: 100%;
+}
+    
+    .test-box {
+    width: 250px;
+}
+    
+}
