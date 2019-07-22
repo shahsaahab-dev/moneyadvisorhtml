@@ -25,6 +25,8 @@
 body {
     background-size: contain;
 }
+    
+    .debt-free-section img.rocket {left: 176px;margin-top: 20px;}
 }
 @media only screen and (min-width:320px) and (max-width:992px){
     ul.navigation{
